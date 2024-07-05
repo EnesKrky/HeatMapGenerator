@@ -15,4 +15,6 @@ Mouse Wheel:<br />
 -When it is low resolution and mouse cursor is on the map, it zooms in or out the map.<br />
 <br />
 ---Notes---<br />
+-Function must be entered regarding to syntax of python. Otherwise, the code doesn't consider it.
+-I suggest you that if there are singular points of your function, avoid them for the code not to give error while dragging and zooming out.
 -If your key combinations are different for slash and brackets, you can change them in lines 319, 325, and 331. Even, you can add new keys combined with shift.
