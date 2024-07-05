@@ -1,2 +1,2 @@
 # HeatMapGenerator
-This code creating UI by using pygame is used to create heat map of a given function.
+This code creating UI by using pygame module is used to create heat map of a given function.
