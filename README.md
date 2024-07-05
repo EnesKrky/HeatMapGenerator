@@ -1,6 +1,6 @@
 # HeatMapGenerator
 This code creating UI by using pygame module is used to create heat map of a given function.<br />
-
+<br />
 -Controls-<br />
 m: Changes visualization type.<br />
 q: Closes the program.<br />
@@ -13,3 +13,6 @@ Mouse First Button:<br />
 Mouse Wheel:<br />
 -When it is high resolution or when it is low resolution and mouse cursor is out of the map, it only changes which value contour is shown at.<br />
 -When it is low resolution and mouse cursor is on the map, it zooms in or out the map.<br />
+<br />
+-Notes-<br />
+If your key combinations are different for slash and brackets you can change them in lines 319, 325, and 331. Even you can add new keys combined with shift.
