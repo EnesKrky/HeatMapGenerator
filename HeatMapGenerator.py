@@ -1,5 +1,5 @@
 from math import *
-import pygame,pygame.gfxdraw,random
+import pygame,pygame.gfxdraw
 pygame.init()
 
 def pixelcolor(pos,pos1,pos2,pos3,col1,col2,col3):
